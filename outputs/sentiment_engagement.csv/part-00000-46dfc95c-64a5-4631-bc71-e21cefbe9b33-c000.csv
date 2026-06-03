@@ -1,0 +1,4 @@
+SentimentBucket,TotalPosts,AvgLikes,AvgRetweets,AvgTotalEngagement
+Neutral,31,76.06,23.71,99.77
+Positive,28,67.54,28.71,96.25
+Negative,41,67.24,26.61,93.85
